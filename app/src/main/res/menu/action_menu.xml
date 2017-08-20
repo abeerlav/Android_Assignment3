@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      xmlns:apps="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/add_integer_menu"
+          android:title="Navigate"
+          android:orderInCategory="100"
+          apps:showAsAction="always">
+        <menu>
+            <item android:id="@+id/Stockholm" android:title="Vaxjo to Stockholm"/>
+            <item android:id="@+id/Copenhagen" android:title="Vaxjo to  Copenhagen" />
+            <item android:id="@+id/Odessa" android:title="Vaxjo to Odessa" />
+           >
+        </menu>
+    </item>
+
+</menu>

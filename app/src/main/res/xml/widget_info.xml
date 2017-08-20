@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/widget_layout"
+    android:configure="a2dv606_aa223de.assignment3.Widget.WidgetConfig"
+    android:minHeight="120dp"
+    android:minWidth="300dp"
+    android:updatePeriodMillis="300000"
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen">
+
+</appwidget-provider>
