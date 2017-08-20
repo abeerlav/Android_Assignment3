@@ -1,21 +1,14 @@
-package a2dv606_aa223de.assignment3.Widget;
+package a2dv606_aa223de.assignment3.WeatherApp;
 
 /**
  * Created by Abeer on 3/8/2017.
  */
 
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.Random;
-
 import android.app.PendingIntent;
 import android.appwidget.AppWidgetManager;
 import android.appwidget.AppWidgetProvider;
-import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
-import android.util.Log;
 import android.widget.RemoteViews;
 
 import a2dv606_aa223de.assignment3.R;

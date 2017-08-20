@@ -3,7 +3,7 @@
  * Created: May 9, 2010
  * Jonas Lundberg, LnU
  */
-package a2dv606_aa223de.assignment3.Widget;
+package a2dv606_aa223de.assignment3.WeatherApp;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
